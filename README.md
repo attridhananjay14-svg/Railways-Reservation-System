@@ -18,20 +18,4 @@ A console-based Railway Reservation System developed using C++.
 - File Handling
 - Standard Template Library (STL)
 
-## How to Compile
 
-```bash
-g++ Main.cpp RailwaySystem.cpp FileManager.cpp -o RailwayReservation.exe
-```
-
-## How to Run
-
-On Windows PowerShell:
-
-```powershell
-.\RailwayReservation.exe
-```
-
-## Project Purpose
-
-This project was developed to practise C++ programming, object-oriented design, record management, and file handling.
